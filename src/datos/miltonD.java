@@ -13,9 +13,10 @@ public class miltonD {
      String nombre;
     public void jalar(){
         String c= "Milton usa su tecnica maldita JALAR, hace que todos los alumnos reprueben su curso, la unica tecnica maldita"
-                + " que lo puede contrarestar es"
-                + " un pedido de cambioi de maestro, sino la tecnica es invencible a excepcion de "
-                + "industrial y satoru gojo claro";
+                + " que lo puede contrarestar es";
+    }
+    public void cha(){
+        String cha="cha";
     }
  
     
