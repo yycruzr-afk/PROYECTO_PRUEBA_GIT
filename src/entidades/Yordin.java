@@ -16,4 +16,12 @@ public class Yordin {
     public String hacerAlgo(){
         return"DORMIR   Zzz";
     }
+    public boolean estudiar(){
+        
+        boolean dormir = true;
+        
+        
+        return true;
+    }
+    
 }
