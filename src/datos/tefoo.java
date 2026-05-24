@@ -14,6 +14,8 @@ public class tefoo {
     int a, b, c, v, g, r;
     
     HashMap<String, String> listas;
-    
+    public String yaFue(){
+        return "Teffo jalo curso y se retiro de la carrera";
+    }
     
 }
