@@ -4,6 +4,8 @@
  */
 package datos;
 
+import java.util.HashMap;
+
 /**
  *
  * @author Cristopher
@@ -11,6 +13,7 @@ package datos;
 public class tefoo {
     int a, b, c, v, g, r;
     
+    HashMap<String, String> listas;
     
     
 }

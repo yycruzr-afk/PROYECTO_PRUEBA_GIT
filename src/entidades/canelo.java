@@ -17,6 +17,6 @@ public class canelo {
         this.nombre=nombre;
     }
     public String ladrar(){
-        return "canelo dice guau";
+        return "canelo aquemen a pasear";
     }
 }
